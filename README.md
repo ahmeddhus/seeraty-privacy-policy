@@ -1,8 +1,8 @@
 # Privacy Policy  
-**Seeraty – AI CV Builder**  
+**InstaCV – AI CV Builder**  
 **Effective Date: 21 July 2025**
 
-Seeraty – AI CV Builder ("we", "our", or "us") respects your privacy. This Privacy Policy outlines the types of data we collect, how we use it, and your choices.
+InstaCV – AI CV Builder ("we", "our", or "us") respects your privacy. This Privacy Policy outlines the types of data we collect, how we use it, and your choices.
 
 ---
 
